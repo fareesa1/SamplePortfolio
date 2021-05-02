@@ -1,0 +1,13 @@
+.header {
+    font-size: 20px;
+    background-color: cornflowerblue;
+    padding: 30px;
+    background-image: url('https://paravelinc.com/img/work/landing/chamber.jpg');
+}
+
+.grid{
+    background-color: rgba(77, 136, 151, 0.596);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
